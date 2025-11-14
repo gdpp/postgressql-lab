@@ -1,6 +1,6 @@
 # PostgresSQL Lab
 
-This repositori contains experiments made by me for test all the things related with PostgresSQL and Relational Databases
+This repository contains experiments made by me for test all the things related with PostgresSQL and Relational Databases
 
 ## Table Of Content
 

@@ -53,15 +53,15 @@ A continuación te dejo los 50 ejercicios (sin respuestas). Algunos implican esc
 ### Sección A: Creación y manipulación básica (1–10)
 
 - [x] Crea la base de datos y todas las tablas según la estructura anterior.
-- [ ] Inserta al menos 5 reinos distintos.
-- [ ] Inserta al menos 6 razas distintas, relacionando algunas con diferentes reinos.
+- [x] Inserta al menos 5 reinos distintos.
+- [x] Inserta al menos 6 razas distintas, relacionando algunas con diferentes reinos.
 - [ ] Inserta 10 héroes con distintas combinaciones de razas y reinos.
 - [ ] Inserta 8 misiones con distintos niveles de dificultad y recompensas.
 - [ ] Inserta 10 objetos con combinaciones variadas de rareza y poder.
 - [ ] Inserta 5 batallas con distintas fechas y reinos ganadores.
-- [ ] Inserta una raza con una vida útil negativa y verifica que falle por el constraint.
-- [ ] Inserta un objeto con rareza no válida y observa el error.
-- [ ] Elimina una raza y verifica el efecto en los héroes (por el ON DELETE CASCADE).
+- [x] Inserta una raza con una vida útil negativa y verifica que falle por el constraint.
+- [x] Inserta un objeto con rareza no válida y observa el error.
+- [x] Elimina una raza y verifica el efecto en los héroes (por el ON DELETE CASCADE).
 
 ### Sección B: SELECT, filtros y operadores (11–20)
 
